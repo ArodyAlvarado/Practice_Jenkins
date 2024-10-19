@@ -1,5 +1,5 @@
 # SAPractica1_DIC2020
-Práctica#1 Software Avanzado Diciembre 2020
+Práctica UMG 2024
 
 ## SA PRÁCTICA 1 DICIEMBRE 2020
 Calculadora financiera desarrollada para la empresa Sistemas Avanzados de Cocina, S.A. la cual servirá de base para la práctica 1 del curso de software avanzado. 
