@@ -1,7 +1,7 @@
-# SAPractica1_DIC2020
+# PRACTICE JENKINS
 Práctica UMG 2024
 
-## SA PRÁCTICA 1 DICIEMBRE 2020
+## SA PRÁCTICA 1 DICIEMBRE 2024
 Calculadora financiera desarrollada para la empresa Sistemas Avanzados de Cocina, S.A. la cual servirá de base para la práctica 1 del curso de software avanzado. 
 
 ## Comenzando 🚀
